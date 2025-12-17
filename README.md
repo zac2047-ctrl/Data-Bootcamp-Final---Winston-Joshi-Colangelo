@@ -1,1 +1,2 @@
 # Data-Bootcamp-Final---Winston-Joshi-Colangelo
+In this project, we set out to create a predictive model which could be used to decide which features of a house are best to predict its value in the market. To do so we used a Linear Regression model, as well as a Random Forest model. We applied these models to a California housing dataset which contained lots of informations on prices, as well as different features and facts of a houses sale.
